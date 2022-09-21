@@ -1,6 +1,11 @@
 h1 {
-  color: rgb(49, 30, 158);
+  color: rgb(68, 50, 211);
+  background-color: aqua;
+  border-color: rgb(33, 32, 47);
 }
-.awsomeheading {
-  color: aqua;
+
+h2 {
+  color: rgb(68, 50, 211);
+  background-color: aqua;
+  border-color: rgb(33, 32, 47);
 }
