@@ -8,4 +8,7 @@ h2 {
   color: rgb(68, 50, 211);
   background-color: aqua;
   border-color: rgb(33, 32, 47);
+  border: 1cm;
+  color: black;
+  border-radius: 1ch;
 }
